@@ -1,0 +1,5 @@
+  
+#!/usr/bin/env bash
+#Move the file betty from /tmp/ to /tmp/holberton.
+
+mv /tmp/betty /tmp/holberton/betty 
