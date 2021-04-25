@@ -1,0 +1,9 @@
+  
+#!/usr/bin/env bash
+
+#Delete the file betty.
+
+#The file betty is in /tmp/holberton
+
+
+rm /tmp/holberton/betty
