@@ -1,0 +1,6 @@
+  
+#!/usr/bin/env bash
+#Create a script that creates a directory named holberton in the /tmp/ directory.
+
+mkdir /tmp/holberton/
+file /tmp/holberton/
