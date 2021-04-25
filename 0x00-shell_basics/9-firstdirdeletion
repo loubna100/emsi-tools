@@ -1,0 +1,7 @@
+  
+#!/usr/bin/env bash
+
+#Delete the directory holberton that is in the /tmp directory.
+
+
+rmdir  /tmp/holberton
