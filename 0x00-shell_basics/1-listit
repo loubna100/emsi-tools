@@ -1,4 +1,2 @@
-#!/usr/bin/env bash
-#Display the contents list of your current directory.
-
+#!/bin/bash
 ls 
